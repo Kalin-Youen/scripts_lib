@@ -1,0 +1,143 @@
+import bpy
+import math
+from mathutils import Matrix, Vector
+
+def unregister_and_cleanup(cls):
+    try:
+        bpy.utils.unregister_class(cls)
+    except RuntimeError:
+        pass
+
+class OBJECT_OT_animate_around_cursor(bpy.types.Operator):
+    bl_idname = "object.animate_around_cursor"
+    bl_label = "围绕游标制作动画"
+    bl_options = {'REGISTER', 'UNDO'}
+
+    animation_type: bpy.props.EnumProperty(
+        name="动画类型",
+        items=[
+            ('ORBIT', "转圈", "圆形或螺旋形转圈动画"),
+            ('PENDULUM', "钟摆", "摇摆钟摆动画"),
+        ]
+    )
+    
+    start_frame: bpy.props.IntProperty(name="起始帧", default=1, min=0)
+    use_current_frame: bpy.props.BoolProperty(name="使用当前帧", default=True)
+    axis: bpy.props.EnumProperty(
+        name="轴向",
+        items=[('X', "X", ""), ('Y', "Y", ""), ('Z', "Z", "")],
+        default='Z'
+    )
+
+    # 转圈动画属性
+    orbit_duration: bpy.props.IntProperty(name="周期(每圈)", default=30, min=1)
+    orbit_loops: bpy.props.IntProperty(name="圈数", default=1, min=1)
+    orbit_clockwise: bpy.props.BoolProperty(name="顺时针", default=True)
+    radius_offset_coeff: bpy.props.FloatProperty(
+        name="半径向偏移系数", 
+        description="每转一圈半径的变化系数。正为远离(外旋)，负为靠近(内旋)",
+        default=0.0
+    )
+
+    # 钟摆动画属性
+    pendulum_period: bpy.props.IntProperty(name="钟摆周期", default=30, min=2)
+    pendulum_cycles: bpy.props.IntProperty(name="钟摆次数", default=5, min=1)
+    pendulum_swing_angle: bpy.props.FloatProperty(name="钟摆摆动角度", default=45.0)
+    
+    use_bezier: bpy.props.BoolProperty(name="平滑插值(贝塞尔)", default=True)
+    
+    @classmethod
+    def poll(cls, context):
+        return context.selected_objects
+
+    def invoke(self, context, event):
+        return context.window_manager.invoke_props_dialog(self)
+
+    def execute(self, context):
+        selected_objects = context.selected_objects
+        scene = context.scene
+        cursor_location = scene.cursor.location.copy()
+        
+        if self.use_current_frame:
+            frame_start = scene.frame_current
+        else:
+            frame_start = self.start_frame
+
+        axis_vector = {'X': Vector((1, 0, 0)), 'Y': Vector((0, 1, 0)), 'Z': Vector((0, 0, 1))}[self.axis]
+
+        if self.animation_type == 'ORBIT':
+            total_duration = self.orbit_duration * self.orbit_loops
+            rotation_angle = 360 * self.orbit_loops * (1 if self.orbit_clockwise else -1)
+            total_rotation_rad = math.radians(rotation_angle)
+            end_frame = frame_start + total_duration
+
+            for obj in selected_objects:
+                if not obj.animation_data: obj.animation_data_create()
+                action = obj.animation_data.action or bpy.data.actions.new(f"{obj.name}_Orbit")
+                obj.animation_data.action = action
+                initial_offset = obj.location - cursor_location
+                
+                step = max(1, total_duration // 30)
+                frames = list(range(frame_start, end_frame + 1, step))
+                if end_frame not in frames: frames.append(end_frame)
+                    
+                for frame in frames:
+                    progress = (frame - frame_start) / total_duration if total_duration > 0 else 1.0
+                    current_angle = total_rotation_rad * min(1.0, progress)
+                    
+                    # --- 【核心逻辑修改】计算半径缩放 ---
+                    # 计算当前已转动的圈数 (角度/2π)
+                    turns_completed = current_angle / (2 * math.pi)
+                    # 根据圈数和偏移系数计算半径的缩放比例
+                    radius_scale = 1.0 + (turns_completed * self.radius_offset_coeff)
+                    
+                    scaled_offset = initial_offset * radius_scale
+                    
+                    rotation_matrix = Matrix.Rotation(current_angle, 4, axis_vector)
+                    obj.location = cursor_location + (rotation_matrix @ scaled_offset)
+                    obj.keyframe_insert(data_path="location", frame=frame)
+
+        elif self.animation_type == 'PENDULUM':
+            for obj in selected_objects:
+                if not obj.animation_data: obj.animation_data_create()
+                action = obj.animation_data.action or bpy.data.actions.new(f"{obj.name}_Pendulum")
+                obj.animation_data.action = action
+                initial_offset = obj.location - cursor_location
+
+                for cycle in range(self.pendulum_cycles):
+                    cycle_start = frame_start + cycle * self.pendulum_period
+                    keyframes = [
+                        (0, 0), (self.pendulum_period // 4, self.pendulum_swing_angle),
+                        (self.pendulum_period // 2, 0), (3 * self.pendulum_period // 4, -self.pendulum_swing_angle),
+                        (self.pendulum_period, 0)
+                    ]
+                    for frame_offset, angle in keyframes:
+                        frame = cycle_start + frame_offset
+                        angle_rad = math.radians(angle)
+                        rotation_matrix = Matrix.Rotation(angle_rad, 4, axis_vector)
+                        obj.location = cursor_location + (rotation_matrix @ initial_offset)
+                        obj.keyframe_insert(data_path="location", frame=frame)
+        
+        for obj in selected_objects:
+            if obj.animation_data and obj.animation_data.action:
+                for fcurve in obj.animation_data.action.fcurves:
+                    if fcurve.data_path == 'location':
+                        interpolation = 'BEZIER' if self.use_bezier else 'LINEAR'
+                        for kf in fcurve.keyframe_points:
+                            kf.interpolation = interpolation
+        
+        type_names = {'ORBIT': '转圈', 'PENDULUM': '钟摆'}
+        self.report({'INFO'}, f"{type_names[self.animation_type]}动画已创建。")
+        return {'FINISHED'}
+
+if __name__ == "__main__":
+    unregister_and_cleanup(OBJECT_OT_animate_around_cursor)
+    bpy.utils.register_class(OBJECT_OT_animate_around_cursor)
+
+    area_3d = next((area for area in bpy.context.screen.areas if area.type == 'VIEW_3D'), None)
+    
+    if area_3d:
+        with bpy.context.temp_override(area=area_3d):
+            bpy.ops.object.animate_around_cursor('INVOKE_DEFAULT')
+    else:
+        print("错误：运行此操作需要一个3D视图区域。")

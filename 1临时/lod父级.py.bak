@@ -1,0 +1,71 @@
+# Blender 4.x 脚本
+# 功能：为选中的所有物体，在世界原点创建一个新的父级。
+#      父级的名称基于活动物体的名称（并移除_LODx后缀）。
+# 作者：一位独具风格的小说家
+
+import bpy
+import re
+
+def create_parent_at_origin():
+    """
+    为选中物体新建一个在世界原点的父级(保持变换)，
+    并根据活动物体的名字智能命名。
+    """
+    context = bpy.context
+    
+    # 步骤一：检查前置条件
+    selected_objects = context.selected_objects
+    active_object = context.active_object
+
+    if not selected_objects:
+        print("错误：请至少选择一个物体。")
+        return {'CANCELLED'}
+
+    print("开始创建父级...")
+
+    # 步骤二：智能生成父级名称
+    # 使用正则表达式来移除 _LOD 后跟任意数字 的后缀，不区分大小写
+    # 例如：'MyMesh_LOD0', 'myAsset_lod1', 'Character_LOD22' 都会被清理
+    base_name = active_object.name
+    # re.sub(pattern, replacement, string, flags)
+    cleaned_name = re.sub(r'_LOD\d+$', '', base_name, flags=re.IGNORECASE)
+    
+    # 防止清理后名字变空（例如物体就叫 "_LOD0"）
+    if not cleaned_name:
+        cleaned_name = "Parent_Group"
+    
+    print(f"基于 '{base_name}' 生成父级名称: '{cleaned_name}'")
+
+    # 步骤三：在世界原点创建新的父级（空物体）
+    # 使用 bpy.ops 操作，因为它能直接处理好场景激活和选中状态
+    bpy.ops.object.empty_add(
+        type='PLAIN_AXES',  # 使用带轴向的空物体，更直观
+        align='WORLD',      # 对齐到世界坐标
+        location=(0, 0, 0), # 放置在原点
+        scale=(1, 1, 1)
+    )
+
+    # 新创建的空物体现在是唯一的活动对象
+    new_parent = context.active_object
+    new_parent.name = cleaned_name
+    
+    # 步骤四：建立父子关系并保持变换
+    # 1. 将我们最初选中的物体重新加回到当前选中项中
+    for obj in selected_objects:
+        obj.select_set(True)
+    
+    # 2. 确保新的父级是“活动”对象（它已经是了，但以防万一）
+    context.view_layer.objects.active = new_parent
+
+    # 3. 执行父子化操作，核心在于 keep_transform=True
+    bpy.ops.object.parent_set(type='OBJECT', keep_transform=True)
+    
+    # 步骤五：完成并汇报
+    print(f"成功！已为 {len(selected_objects)} 个物体创建了父级 '{cleaned_name}'。")
+    
+    return {'FINISHED'}
+
+
+# --- 脚本入口 ---
+if __name__ == "__main__":
+    create_parent_at_origin()
