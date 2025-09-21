@@ -1,0 +1,3166 @@
+{
+    "version": "2.0",
+    "metadata_last_updated": "2025-09-21T01:09:56.330776",
+    "scripts": {
+        "da07e6b631d3": {
+            "display_name": "Lod父级",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/lod父级.py",
+                "sha": "5037cc6f08e832a6b788ba7833fbc4163b389a9280feb8021e9ad93add757729",
+                "last_commit_date": "2025-09-21T01:09:56.326266",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "67730f28f175": {
+            "display_name": "关联重复材质",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/关联重复材质.py",
+                "sha": "b6e6fa7bfa03b78c1d0f4f424d53d7cd1ce25d9f8d0f4a19b430d470c5db7100",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d6e922609ce1": {
+            "display_name": "分Lod",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/分LOD.py",
+                "sha": "55a74e84ca60f6e904e3ecb8d6315e04864e79ec0264240b625add7e46180380",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d69911f3d32b": {
+            "display_name": "分Lod1",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/分LOD1.py",
+                "sha": "f0822eeef4c38fab04116f8f9e9fa35ea5103d14050f772f638b9fa1618cbc27",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "69fe81f34761": {
+            "display_name": "同步名称",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/同步名称.py",
+                "sha": "165c8d5613ed30375ef6a0e70857204b52b19a53b40da3a0714ebe6f5682a308",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "b2006217d837": {
+            "display_name": "命名去点",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/命名去点.py",
+                "sha": "a1aad67df2b5be016fe5680bea4f5a382b171d24334a19407a36e8ae0ca20974",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "8cef6778f2fd": {
+            "display_name": "复制原点",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/复制原点.py",
+                "sha": "05dcc7161f2626cb64f3a1827ea48e8e7cc869c6ec24cda124ef5a4ad4a7d005",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "0f36313f9543": {
+            "display_name": "导出Unityfbx",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/导出UnityFbx.py",
+                "sha": "03b6dd72cf33f939507e8de53bd628abca61a51b433cf9eab585bb72c12b3abc",
+                "last_commit_date": "2025-09-21T00:53:57.968455",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d3e41108d216": {
+            "display_name": "应用缩放防反面",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/应用缩放防反面.py",
+                "sha": "bab97caa2264c9c9df3fc56a4518fd6e2148de2305237a4975c7b68402d91a4d",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "c10b82535636": {
+            "display_name": "打印面数",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/打印面数.py",
+                "sha": "20f79b2af0f99175035746e19d93c8346f194009bb4c88adf8cbe1c047e14408",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "39c55425889b": {
+            "display_name": "查找贴图",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/查找贴图.py",
+                "sha": "df9f238649be0061c160254f470279a97cee69d777c25ebb2554f12b53ebd909",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "6735bbc62025": {
+            "display_name": "柱体拟合",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/柱体拟合.py",
+                "sha": "ece534fd1a79158520f0989719660065f1882a7727b3662cda1e2d84d2e56076",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "825e70bc7b02": {
+            "display_name": "父级位置",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/父级位置.py",
+                "sha": "f58a8729d8f4fe7796636691fcb2d9497c42966b518b1e580f48eaa4e0737aa2",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "16d0644768b8": {
+            "display_name": "粘贴原点",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/粘贴原点.py",
+                "sha": "4346560c879af1287e81527da247f6db6d9866a68e00e12d488c01aa4279895d",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "2951986c57b5": {
+            "display_name": "统一Uv名",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/统一UV名.py",
+                "sha": "04d5d21cc73bd58861ef90251dd47b56ab6e212ef4a3841494cfc751c03fd06e",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "43e6ed162fb8": {
+            "display_name": "选被遮挡面",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/选被遮挡面.py",
+                "sha": "45a5b42719fca48c26497708e890438c56e21c4e4bb72192fd989cdd0188ef3e",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "5f49203358d3": {
+            "display_name": "选边长",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/选边长.py",
+                "sha": "0e2f0bb821db159053dcfb45522d88da7c6ff6c7910fb9ff0b9b5d550e5b7da8",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "f860fc63f904": {
+            "display_name": "重构网格",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/重构网格.py",
+                "sha": "d1a0e43379383ee9746633392abee2e803dfdc9eceecea9c5b6dbe0d98bbac3d",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "b32f912740e2": {
+            "display_name": "长方体拟合",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/长方体拟合.py",
+                "sha": "5140fba9fac09aab25c3283927715d824ee20aaaf007f08d54b032ee5695d28b",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "858ca3805a26": {
+            "display_name": "渲染可见",
+            "tags": [
+                "2不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "2不常用/渲染可见.py",
+                "sha": "7be680d251b1858b0735efda9cb263146d4760c082b36fc0507aad3d910cba35",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ae78f5ba4806": {
+            "display_name": "选出形变骨层",
+            "tags": [
+                "2不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "2不常用/选出形变骨层.py",
+                "sha": "618cd8b0b3414202d392cf2c583a9a1d176c62da7a322e5f99ab8a6653cc291d",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "13d3a4ddaeb5": {
+            "display_name": "Autorig烘焙约束",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/autorig烘焙约束.py",
+                "sha": "5ff036f3cf02fd119423c562ea1bcb99911e27181e17960cbd13308784fad2b2",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "104799d7d99e": {
+            "display_name": "Nla生成",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/NLA生成.py",
+                "sha": "02326bf58396e71d721778252e767f08979d27d5519d7d175957c71d05452ebb",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "bad7eeb43997": {
+            "display_name": "减时间",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/减时间.py",
+                "sha": "7f620705a83ce599bcc6155c32f2ec8d63069c248ab4ca0df0b34d1bc47aee10",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "1c202469b693": {
+            "display_name": "加时间",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/加时间.py",
+                "sha": "e9f65a71ea04a30e6dd2c5fbc8962e3ede17599a2e743914930582bbd40f4ac9",
+                "last_commit_date": "2025-09-21T00:53:57.969459",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "726f1724f8a0": {
+            "display_name": "同步姿态",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/同步姿态.py",
+                "sha": "2a873fceee7e63d1e5ede306a10fe7df30dea5fe8fb11f84de043094cc568092",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cedd79d2b830": {
+            "display_name": "导出Glb动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/导出glb动画.py",
+                "sha": "8ef974a4a533fa493cb3e8a603e4868040d3a2d8b33097ff95a1fdcc25fce62b",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "7e686a3e917a": {
+            "display_name": "导出Glb无动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/导出glb无动画.py",
+                "sha": "8381f682c3194b6607654501964c369d734baf3045b37ee1b3d5a04a1d706ae9",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "c06166155f2c": {
+            "display_name": "清理关键帧",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/清理关键帧.py",
+                "sha": "6855ead5d861b900cf77fc3500d09a2d735763befa94ad467aad185e96979c65",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "41bfc8ca7fe6": {
+            "display_name": "清除Nla轨道",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/清除NLA轨道.py",
+                "sha": "027d59a5d3924d77464477b34e0e9f82ec219f3b0645dc031464efc42b34a1db",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "69318faa3dc2": {
+            "display_name": "清除物体动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/清除物体动画.py",
+                "sha": "2aa81eb539f87dcc8ad2b6e968a8e7da65a25f1bbfdf1d4ed4cd572cc32e313f",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "0906886ea044": {
+            "display_name": "烘焙Nla形态建等动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/烘焙nla形态建等动画.py",
+                "sha": "a0cb3713cf1c6871b3462e6413e0839905d076e6a0d3bc97263fcf0f33bf3f5d",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "81daa7703a61": {
+            "display_name": "绕游标转圈",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/绕游标转圈.py",
+                "sha": "0e8a3c2e2d4a2b8843b6ab07f0fa5f8135d07a0387c7e0a6fca443886fb37de8",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "5eefbe891f0e": {
+            "display_name": "解锁显示全骨骼",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/解锁显示全骨骼.py",
+                "sha": "28c104f6a116786b13a1fc386b3c7e02c585f5e3bce44b11628de3b84a3bc570",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "a3f0c0d1dc1e": {
+            "display_name": "设置动作名",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/设置动作名.py",
+                "sha": "627fca4e40ec3e7667a6bb43fe9947fda8b3d98383344e2f32e2a070e23f0c52",
+                "last_commit_date": "2025-09-21T00:53:57.970943",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "54bd11b62abf": {
+            "display_name": "设置活动动作",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/设置活动动作.py",
+                "sha": "bfe05d3a94d2a9e38ad64191d837e250c15230dd12f246d1a6a9f3b332c5c289",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "78442dfce8f7": {
+            "display_name": "骨骼跟随运动",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/骨骼跟随运动.py",
+                "sha": "dcab2b049ce92fea5afc9e5f2b4d40d763f824d43200208de2d1d9c26e2ab060",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "a30de8f729cc": {
+            "display_name": "骨骼选父子级",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/骨骼选父子级.py",
+                "sha": "112d6b8036da9d7fa18070ab1cae7a092cb0b7e04f7a48678c8a2ef58348a353",
+                "last_commit_date": "2025-09-21T00:53:57.971949",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "5ac97e12d37b": {
+            "display_name": "一键材质视图白色",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/一键材质视图白色.py",
+                "sha": "e9c3644d4c5c5ed1ea2e8b66332c91f532e4111ee9b9fc1c8f85384722e8e82b",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "28f42970a19a": {
+            "display_name": "一键给选中物体材质高光0",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/一键给选中物体材质高光0.py",
+                "sha": "485ac54f547b64d115d36a0470bf8a44be84bd08cdde7fbd554503afc493e189",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "7a11b6036d29": {
+            "display_name": "一键设置选择物体的Normal强度为0",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/一键设置选择物体的normal强度为0.py",
+                "sha": "9e163d46b25986b1693bab118aebf75c581a09bf4a694cfbbc4ed27de2b53afc",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e310f55e16cd": {
+            "display_name": "复制名字给选中项",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/复制名字给选中项.py",
+                "sha": "303430b3fc56717041030ada1ca869e3f28cbd07612e7f9c9263614768c37379",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "4377d91f7ffa": {
+            "display_name": "复制子集给选中项",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/复制子集给选中项.py",
+                "sha": "8f699bf4e0ea1c52c25a8214e2cf359ab630f4a3ba1c84ebe9b6f3564458d498",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "9eff7b7b56e6": {
+            "display_name": "快速相机目标",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/快速相机目标.py",
+                "sha": "d0ea022ffcca3bc94e6c6adf23069e3999419c9f571327c2495283b84c7ddeaa",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "caab03d0deea": {
+            "display_name": "文本来自Name",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/文本来自name.py",
+                "sha": "830440a7139b37bcf1228ffeba3b5b3c754c57b36fba04f1c8278f926bb81ebd",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "7b2c83c29377": {
+            "display_name": "显示选中图片在图片编辑器",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/显示选中图片在图片编辑器.py",
+                "sha": "a3b12265d840c65fd9b92816bda1410857311d46cadf63e49769283a9fd3cc3e",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ed691e9505a8": {
+            "display_name": "材质贴图一键给Box投影方式",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/材质贴图一键给box投影方式.py",
+                "sha": "1ce50fe9cb5e9791a585bf80ad75849d853abc551cd377d6bcd47a4a93c3c43d",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ad98d5e89594": {
+            "display_name": "根据材质名重命名",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/根据材质名重命名.py",
+                "sha": "51c7cd58a013d612c506ee136156539d8f84b8c9b949f6554435facb3a1c129f",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d9c06a478b2b": {
+            "display_name": "清除选择物体所有材质",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/清除选择物体所有材质.py",
+                "sha": "cbe791b9b5f6f870852bd9669045017c4a2bfef67dc422be39faa35a428b5f80",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d6680aac5cde": {
+            "display_name": "相机黑框",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/相机黑框.py",
+                "sha": "7c4332003fe8d0c18d2c4f588ef0876c10577bc2dd869bb00edb9a204841c77a",
+                "last_commit_date": "2025-09-21T00:53:57.971949",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "17fb8c3ae3c2": {
+            "display_name": "相机黑框F",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/相机黑框f.py",
+                "sha": "dc3283784e0db804be6deacb230851be199af8995987b52909683ed57704892f",
+                "last_commit_date": "2025-09-21T00:53:57.971949",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e72daed52c8d": {
+            "display_name": "给所有材质加工程名前缀",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/给所有材质加工程名前缀.py",
+                "sha": "7d44e8d45f1fa24c7ac763a77c92107b50b8f086ff4cbae74788f8ccc1206de7",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cc0e948d8136": {
+            "display_name": "翻转面",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/翻转面.py",
+                "sha": "ec0b7dee1deec5796c72a6dda741a47b6ca253cb58d91fcb42693c4cb6fba74d",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "edf47a1de696": {
+            "display_name": "获取面角度",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/获取面角度.py",
+                "sha": "d70a268030b425fe8a33c0928bc08a78bfa052ea73d60510058711cf04a5a89f",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "fddc4a6ad286": {
+            "display_name": "视图定位",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/视图定位.py",
+                "sha": "77a3c2ad7763d5bd02ea95196aa4c98074ab0f795c91c8b1cdf8095c54db3ad7",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "b4fb256e8501": {
+            "display_name": "设置所有Normal贴图的色彩空间",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/设置所有normal贴图的色彩空间.py",
+                "sha": "6a32f12a10c94523e4d47d204792943ac5795f58993064ce6338a796583789a3",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cf7c22ac31e0": {
+            "display_name": "选择物体的金属度设0",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/选择物体的金属度设0.py",
+                "sha": "dd705f5d9bb5d9e0d1584e0f5d4ca3958ae9ab0cb0be6f604df80033b4632549",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "eec3634d37e8": {
+            "display_name": "圆弧转直线",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/圆弧转直线.py",
+                "sha": "41c1dfe3b3921e7d4923c53effa64f5dd6673ab1c8bce7802f7a243f908bdeb3",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cf36f80324d9": {
+            "display_name": "导出Unityfbx Copy",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/导出UnityFbx copy.py",
+                "sha": "fd15a7778a25ae5b3ccb0ae7324bbfe1043d148764df9cbe418b5aee5b1a8cc7",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "3571616b4a33": {
+            "display_name": "导出Unityfbx",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/导出UnityFbx.py",
+                "sha": "d954d06353c827d92f0ec4c5e1b8943e9fd0b12ebac718d63249df57e859d768",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "12a684190d80": {
+            "display_name": "换头连接边缘 Copy",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/换头连接边缘 copy.py",
+                "sha": "704aa476add38c460e8356783c462a81f81f021371cc1ebb1e42f2e0aa4b554f",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "305827418682": {
+            "display_name": "换头连接边缘",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/换头连接边缘.py",
+                "sha": "55d6b9178fc1e48b4d61890e88dca1117fde471dab2cbcbc0ff32392b689c597",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "0fe762e6b3a1": {
+            "display_name": "根据Uv选择斜线",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/根据UV选择斜线.py",
+                "sha": "16d0558c5840267071a6f44f2bcb4da6c1ce24f5d4ffc5302124c2d36dd4dbbd",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "4a8d8b52aae5": {
+            "display_name": "直线转圆弧",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/直线转圆弧.py",
+                "sha": "9473a68d7a5f1f4472f42cfe6cfd30c9e45f2fb0100a17b8cf5a86a91e87d9d9",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "25264b123212": {
+            "display_name": "获取层级骨骼名",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/获取层级骨骼名.py",
+                "sha": "ff650def5445db447e9d37efcefb1e78d259f2b6a20107c6178107430ec29b52",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "45ab36458cc0": {
+            "display_name": "获取层级骨骼名1",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/获取层级骨骼名1.py",
+                "sha": "443f461ab76168015878d9aaae492614348106c8c0cef67dd54d01f1009da3c0",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d33bf9824dce": {
+            "display_name": "转换层级骨骼名",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/转换层级骨骼名.py",
+                "sha": "b2962e70d443cb6a3b2466c07232dd10a7dc1415852c775f1dc979979b013a19",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ccc0385b8171": {
+            "display_name": "骨骼命名",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/骨骼命名.py",
+                "sha": "68f0d47af88b07c956162e51b616a0076adf44fcf1c5ea1f08f0fd00a4700aa9",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "27363cf7e367": {
+            "display_name": "骨骼排序",
+            "tags": [
+                "8不常用"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "8不常用/骨骼排序.py",
+                "sha": "18f36a08a6d4ad492835f4dfd8db4329c6d654c700fbb0b491bdc697eecf5d8a",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "1e9fe2b54601": {
+            "display_name": "临时操作符示例",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/临时操作符示例.py",
+                "sha": "485a80951abb241334f071f153fda1d4dede2468aea8adc11e305628b39c1599",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "54577b8522be": {
+            "display_name": "分离Rm贴图",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/分离RM贴图.py",
+                "sha": "b70e094800c050e8d4c568ada1ab7cf20116ca2dce781578709f5d6979f4d1db",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "5e07f5d20eb8": {
+            "display_name": "刷新插件",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/刷新插件.py",
+                "sha": "c7cdf1cc3409cdd387288463d9ab188fbbe7ee9a35449a9cdd92dac3fb57cfd4",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "1dfa9372f6e3": {
+            "display_name": "单独显示所选",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/单独显示所选.py",
+                "sha": "5a3a0e1ef63b22f4577e58f3d1b66fe194ea31d09586143826ae2cdeaab20393",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "22aa5c1d8987": {
+            "display_name": "单独显示所选并K帧",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/单独显示所选并k帧.py",
+                "sha": "38e223f693241f79ed13df6b813f6700fe88d226238a88e226c93624d264ed52",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "aa299acb3e8b": {
+            "display_name": "同步姿态",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/同步姿态.py",
+                "sha": "2a873fceee7e63d1e5ede306a10fe7df30dea5fe8fb11f84de043094cc568092",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "410b41e3d0ce": {
+            "display_name": "圆弧转直线",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/圆弧转直线.py",
+                "sha": "41c1dfe3b3921e7d4923c53effa64f5dd6673ab1c8bce7802f7a243f908bdeb3",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "859ba9b27292": {
+            "display_name": "导入",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导入.py",
+                "sha": "9cffd57894ba706908dd4a39c7550dc35ddbc2f54c784ffc64d53154a7c7aea9",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ff4e1176a406": {
+            "display_name": "导入与文件名一致集合",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导入与文件名一致集合.py",
+                "sha": "2d77102ea35bfeba0ab9e543c4a07a37139d345f5822da1ab051b9b66efeb5c5",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "07303b3c90da": {
+            "display_name": "导出Glb",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导出glb.py",
+                "sha": "5499b70e0079544cfba53694e0f9936061065f772c85666c95d79af1920eff57",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "adfb2ef84ff1": {
+            "display_name": "导出Obj",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导出obj.py",
+                "sha": "e2ccb2b646091ad7f2b4945018c6a68f28f94c1379d6ff2225a0929ef44e91ee",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "606bb20ea061": {
+            "display_name": "导出Obj整体",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导出obj整体.py",
+                "sha": "7b55bd150bbfe75d14e981881b19452ef95cb36597e8b1006f0f8b5d5826a8ec",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "04f2353d1cac": {
+            "display_name": "导出Unityfbx",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/导出UnityFbx.py",
+                "sha": "f7735c1949e06cb6064eafa9dc982c26aae39594e349c53c723311a8aa0cdddd",
+                "last_commit_date": "2025-09-21T00:53:57.972950",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "61f39553639f": {
+            "display_name": "换头连接边缘 Copy",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/换头连接边缘 copy.py",
+                "sha": "704aa476add38c460e8356783c462a81f81f021371cc1ebb1e42f2e0aa4b554f",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "3177121b80d0": {
+            "display_name": "换头连接边缘",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/换头连接边缘.py",
+                "sha": "55d6b9178fc1e48b4d61890e88dca1117fde471dab2cbcbc0ff32392b689c597",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e7b2f5ad4334": {
+            "display_name": "旋转X",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/旋转x.py",
+                "sha": "b87126576f9b071b081589b6afe755e1ac3b293a2aa807bb35421cf8686ba717",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "086c78f8d064": {
+            "display_name": "曲线位置比较",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/曲线位置比较.py",
+                "sha": "7d63e1a817e3168aa5ace6f3fbe8304c5b81ffb5bf75dc4d88b53badd62d4951",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "26ef4fd418f2": {
+            "display_name": "根据Uv选择斜线",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/根据UV选择斜线.py",
+                "sha": "16d0558c5840267071a6f44f2bcb4da6c1ce24f5d4ffc5302124c2d36dd4dbbd",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "6531619d0860": {
+            "display_name": "法向移动点",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/法向移动点.py",
+                "sha": "073316a8e5ad6643adcccac153264c38ee92cdf3f1cc5255b174f6a8dc693b72",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ab8c2d9447a7": {
+            "display_name": "物体或骨骼名去点",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/物体或骨骼名去点.py",
+                "sha": "f44a7d81d94bf2eda17a8b5afdb3b57c0a66860677ffe8866abad10f15125c81",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "c36e6a8e6d7e": {
+            "display_name": "直线转圆弧",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/直线转圆弧.py",
+                "sha": "9473a68d7a5f1f4472f42cfe6cfd30c9e45f2fb0100a17b8cf5a86a91e87d9d9",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "46a3d8ac118e": {
+            "display_name": "移动到集合",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/移动到集合.py",
+                "sha": "80260d59554e0f52583b10da90173b79114496380f98b15df88e7142d5de3dd5",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e98e4a728143": {
+            "display_name": "获取层级骨骼名",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/获取层级骨骼名.py",
+                "sha": "ff650def5445db447e9d37efcefb1e78d259f2b6a20107c6178107430ec29b52",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "b2f7d7bc5ea0": {
+            "display_name": "获取层级骨骼名1",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/获取层级骨骼名1.py",
+                "sha": "443f461ab76168015878d9aaae492614348106c8c0cef67dd54d01f1009da3c0",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d3608413e2a2": {
+            "display_name": "解包贴图",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/解包贴图.py",
+                "sha": "bd3bb7d4cf146cf6edf3252ca8507cddf7c5137df8a1ac54929093156b404594",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "190f49077120": {
+            "display_name": "记录父子级",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/记录父子级.py",
+                "sha": "dfaa42dd54422f5fccd9f0276a0ecfe2b53fea94f8d495cd56bfb7529063134b",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "61c6a43ed6ad": {
+            "display_name": "设置网格为材质名",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/设置网格为材质名.py",
+                "sha": "4daaf05175e377700978d589ac96a58b08184573eea08a3c8cb31ae76e9e5cd6",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "748728c6e617": {
+            "display_name": "调换两物体材质和网格数据",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/调换两物体材质和网格数据.py",
+                "sha": "81be7125517d9ce4c99e54357f2a5ca47972f773ece61fadd2892c5e79105617",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "2cc304c07dc8": {
+            "display_name": "质心点连线",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/质心点连线.py",
+                "sha": "fe12ab7d43030ee35a8c6fafe4242e824079f6be1348bb6ecf04fbb6edd99b4d",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "91e6f1aefcca": {
+            "display_name": "贴图去点",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/贴图去点.py",
+                "sha": "f44a7d81d94bf2eda17a8b5afdb3b57c0a66860677ffe8866abad10f15125c81",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "55b25a878112": {
+            "display_name": "转换层级骨骼名",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/转换层级骨骼名.py",
+                "sha": "b2962e70d443cb6a3b2466c07232dd10a7dc1415852c775f1dc979979b013a19",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "1e6e9c646dbc": {
+            "display_name": "转移网格",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/转移网格.py",
+                "sha": "764976cb631301b3154f0b5cbfa247a7c3192440bdbea0dd88167b029df9ff7a",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "65d5ced6198c": {
+            "display_name": "选择子级",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/选择子级.py",
+                "sha": "342ab783f7a0f4a79ba987fe1d43891c7515fe8966dad3f5fd457a645d8f2a05",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "3b142e909020": {
+            "display_name": "选择集合",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/选择集合.py",
+                "sha": "cab1b89c1fa1b04263afbcb6176ee84a00336d38b94566b5fb807d40a5e27166",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "4a03f57a7b67": {
+            "display_name": "遮罩所选顶点",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/遮罩所选顶点.py",
+                "sha": "22be52c6f22290bee7a33d9be159c096a23248541ed49df07cd33a598cfa75eb",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "494dff964aee": {
+            "display_name": "顶点组合并",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/顶点组合并.py",
+                "sha": "d59a4c549a68fa654b45b62ef30057e19bad893622e1ce72c9eeaba0fd3339dd",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "3c656b4e70e6": {
+            "display_name": "顶点组拆分",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/顶点组拆分.py",
+                "sha": "f80be673bd77eabfb539e996fd8277066ea123438a1b19f01663240b8ba7debe",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cb9b0c5d2dbc": {
+            "display_name": "骨骼命名",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/骨骼命名.py",
+                "sha": "68f0d47af88b07c956162e51b616a0076adf44fcf1c5ea1f08f0fd00a4700aa9",
+                "last_commit_date": "2025-09-21T00:53:57.974256",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "12d8f14d8d57": {
+            "display_name": "骨骼排序",
+            "tags": [
+                "99未分类"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "99未分类/骨骼排序.py",
+                "sha": "18f36a08a6d4ad492835f4dfd8db4329c6d654c700fbb0b491bdc697eecf5d8a",
+                "last_commit_date": "2025-09-21T00:53:57.975262",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "91b6e2b8107e": {
+            "display_name": "设置数据块名",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/设置数据块名.py",
+                "sha": "71cebbb30d869ac9aa9ebfc930a8aaa1d3ccebae777949ef19a7c4fdb5b5802d",
+                "last_commit_date": "2025-09-21T00:53:57.975262",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ee6040e07d5d": {
+            "display_name": "设置贴图名称",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/设置贴图名称.py",
+                "sha": "db323072cb53f05c8287b179408866f17fc7181cfc471fa6cd13fd254b35bc15",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "a64810634c16": {
+            "display_name": "选择子级",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/选择子级.py",
+                "sha": "342ab783f7a0f4a79ba987fe1d43891c7515fe8966dad3f5fd457a645d8f2a05",
+                "last_commit_date": "2025-09-21T00:53:57.975262",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "da2a4224a894": {
+            "display_name": "选择父级子级",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/选择父级子级.py",
+                "sha": "f52fdbc7b4b89f0542dbbd0785161d34dedf983f441726c1424f725f906861ca",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cf97b9780e67": {
+            "display_name": "设置笔刷贴图映射半成品",
+            "tags": [
+                "1临时"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "1临时/设置笔刷贴图映射半成品.py",
+                "sha": "fd45636e9a4a310c6a0bb358df11cd82ca5aea9edf12a4116d47288eee69a57b",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "4e30e88d4d06": {
+            "display_name": "Xyz转四元数",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/xyz转四元数.py",
+                "sha": "9d8989b4340c2d82b719608cfa18bc19eb6fe9234a9ee12dc9c22b341badd727",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "02e9f0d20582": {
+            "display_name": "出现",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/出现.py",
+                "sha": "d9062360f926b977e5a0a9b4d5998b2dba33bfc7052a136f7379d20d32c79413",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "f888f7c7f9c9": {
+            "display_name": "出现或消失",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/出现或消失.py",
+                "sha": "924203ed5dbf5c133ef9153ac43c7b6f92d410ca6854e83761cb463bcbc6f4a3",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "f6cf6b6d602f": {
+            "display_name": "删除空形态键",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/删除空形态键.py",
+                "sha": "07de1f2b01f771f1f2cd10b6969f06a368a421d9a2f714587e0c66836d0a0f2f",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "0a740ddfdcd3": {
+            "display_name": "喷射物体高度差版本",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/喷射物体高度差版本.py",
+                "sha": "aa5c9611cd5d3f41602886eb05406c161f2a2bd780cbb851078d7f359a6fa4d9",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "625036846c78": {
+            "display_name": "字典转标记",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/字典转标记.py",
+                "sha": "1017fb6b979593bc5facf7bcde41ec9121f5b374c2e24818361242cd4aaadd6e",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "9ca5695c7645": {
+            "display_name": "导出Glb父子级带动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/导出glb父子级带动画.py",
+                "sha": "acec86f3a9cbbc4ff8c328a55342ed104b619ec54c57fccf510f4edd23c4cf82",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "cdc0e92e950b": {
+            "display_name": "帧范围内复制动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/帧范围内复制动画.py",
+                "sha": "6d5ce618d18291f4cff3e458ffac5237f83129cbf2ac9b1e218c23a13b7e1b26",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "8ddfc928356b": {
+            "display_name": "标记转字典",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/标记转字典.py",
+                "sha": "57a50c9e384b4549c77e3bcb11f3cd8df832fe57f9cda2f4b27bd4e9562a0d7a",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "1ac054ec1038": {
+            "display_name": "消失",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/消失.py",
+                "sha": "952f6b75fec9905fa5b100d986e50af816140876db5f7664607efb77a6bbb67b",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "40b458083da0": {
+            "display_name": "渐变显隐",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/渐变显隐.py",
+                "sha": "3fc8b40ecb8e1daeeea2e1e04126856a8e1613f47f736921af184bfabee45440",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "8dcd68008626": {
+            "display_name": "父级解绑绑定带动画",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/父级解绑绑定带动画.py",
+                "sha": "e7eafa7a5355362412e4389af7331352dc15e8150baa1e87bf0cee6a043ecc87",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "000214657c07": {
+            "display_name": "物体喷射效果",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/物体喷射效果.py",
+                "sha": "4d061b9650ce5bf3709c45b661d927df1757f0de50efb996c71ee18d4407e540",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "fd6f8ba6977b": {
+            "display_name": "缩放为零的帧位置平滑",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/缩放为零的帧位置平滑.py",
+                "sha": "73d61231f0d3132a122f1fdbaf9875310c2dfe963f2ec730d415271cc483138c",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "c957a99a9888": {
+            "display_name": "跟随运动",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/跟随运动.py",
+                "sha": "c6bc5dc920b424157ac1d8a3e38252cdcc50163952269ad2403c9d4b00555811",
+                "last_commit_date": "2025-09-21T01:09:56.327722",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "25cefaee9866": {
+            "display_name": "重塑形态建连续变化",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/重塑形态建连续变化.py",
+                "sha": "6f55dbea83f27c489fe9b79cee95aa0f9030056d6c77b2830cee2625bc6736bf",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e589e01d7e6d": {
+            "display_name": "重塑形态键包括运动",
+            "tags": [
+                "3动画"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "3动画/重塑形态键包括运动.py",
+                "sha": "e98133635034cc80ef5a0bbd45a61862683490d971cbaa90fd1cddbbdb90e059",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "24e321421ccd": {
+            "display_name": "打开Blender文件位置",
+            "tags": [
+                "4其他"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "4其他/打开blender文件位置.py",
+                "sha": "4b8a51ee6e4ceeedd9e921512ab07758b5c2203514b4f92d402c1355ac3dc3c4",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "078d57e9c7cd": {
+            "display_name": "Glb材质预设",
+            "tags": [
+                "5材质贴图"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "5材质贴图/glb材质预设.py",
+                "sha": "a57fb9538b7ee9282dcfb7e64494c9c2fbf2e4e04c0c666e78083897c767c676",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ee860525c0c4": {
+            "display_name": "图像平面Uv宽高校正",
+            "tags": [
+                "5材质贴图"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "5材质贴图/图像平面uv宽高校正.py",
+                "sha": "f9ca84b5dde40c126dba65f1713f0c9af50c3d5021618e6f35df97fb674355a4",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ee72f24efbe9": {
+            "display_name": "根据平面网格映射Uv",
+            "tags": [
+                "5材质贴图"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "5材质贴图/根据平面网格映射uv.py",
+                "sha": "f15e7d210bb358505a7b81088d36c175d20f50cdd3ff17d6026e89740e3bf8c1",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "7737f2b54fb3": {
+            "display_name": "按活动项旋转对齐轴",
+            "tags": [
+                "6编辑"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "6编辑/按活动项旋转对齐轴.py",
+                "sha": "07e1b6ce3494ccc7631a7f4763eec0043f1d921c5f7b11d5672a4be4f7320eba",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "42074bb639df": {
+            "display_name": "材质不透明",
+            "tags": [
+                "6编辑"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "6编辑/材质不透明.py",
+                "sha": "8e329aa7bb6534b6cab863ba47d2eb91d182bea435105bcc28225dd7c24cfbe7",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "419737894bf4": {
+            "display_name": "Nla预览",
+            "tags": [
+                "N面板插件"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "N面板插件/NLA预览.py",
+                "sha": "66537baad7d6e542ae1edc8ffca81d920175e93d0ec6b6fa46d4bc427114a287",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "f1775ce52a67": {
+            "display_name": "同步变换到帧",
+            "tags": [
+                "N面板插件"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "N面板插件/同步变换到帧.py",
+                "sha": "bdd7f1d208af51d47994ec561e1a7bdff68e2408c989671098403443ad3b400a",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "04970270d2b5": {
+            "display_name": "动画关键帧备份管理",
+            "tags": [
+                "动画小工具"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "动画小工具/动画关键帧备份管理.py",
+                "sha": "a7e0615328d46f4b2d5bbb70e52c38566db727b713e50e1f6fe6398cf201f299",
+                "last_commit_date": "2025-09-21T01:09:56.328734",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "e60851c1e63c": {
+            "display_name": "所选全部插一帧",
+            "tags": [
+                "动画小工具"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "动画小工具/所选全部插一帧.py",
+                "sha": "6f333c1585bcbd947b669060989f658d157d2a1ecf2c3bf1f60184bd39ff986c",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "a1bc76756ad3": {
+            "display_name": "新建标记或命名",
+            "tags": [
+                "动画小工具"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "动画小工具/新建标记或命名.py",
+                "sha": "6a4f4da11aeb89db872f36210b96caacc06c5813844691c9e43d66af2c9b7cd2",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "48adfa9f352b": {
+            "display_name": "跳转到所选关键帧",
+            "tags": [
+                "动画小工具"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "动画小工具/跳转到所选关键帧.py",
+                "sha": "3d9ea7a53d38f2f837b63cb038c98562cf6ec90367a03a3904feb8e1b2d9f704",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "480b95a4874c": {
+            "display_name": "Pme插件属性更改案例",
+            "tags": [
+                "开发"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "开发/pme插件属性更改案例.py",
+                "sha": "4771272d59df02a8168ea47cb334bcd77b3bacb13f78dc5b5aa525fcb3a5e81d",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "944a9de852d6": {
+            "display_name": "可视化生成Ui界面代码",
+            "tags": [
+                "开发"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "开发/可视化生成ui界面代码.py",
+                "sha": "ddac4fd385014a48af0e48379ebe2e2f184d28f651bb36e46961dc447868da39",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "124f47e6a986": {
+            "display_name": "属性探查器",
+            "tags": [
+                "开发"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "开发/属性探查器.py",
+                "sha": "3839bd6c34418383fda370993a2cb5109f39353cc7c9a0cfb9b4d9f4b8165d02",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "fedd00986af5": {
+            "display_name": "设置Pie菜单的脚本名称",
+            "tags": [
+                "开发"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "开发/设置pie菜单的脚本名称.py",
+                "sha": "4419b54974e07e3f4bd67581a5d04b9506369123a421366bcfdfff504cf1c13e",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "0c7802677947": {
+            "display_name": "跳转N面板",
+            "tags": [
+                "开发"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "开发/跳转N面板.py",
+                "sha": "b77ae17bd1a0415cb34f36069828d16b566ea9458d34b6620e8ddcc2da94ed9c",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "39c42e98b10c": {
+            "display_name": "父子级解绑绑定带动画",
+            "tags": [
+                "父子级"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "父子级/父子级解绑绑定带动画.py",
+                "sha": "e7eafa7a5355362412e4389af7331352dc15e8150baa1e87bf0cee6a043ecc87",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "b0ef56524f67": {
+            "display_name": "选父子级仅父级",
+            "tags": [
+                "父子级"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "父子级/选父子级仅父级.py",
+                "sha": "c4f31bf03caebfceaa60a3f40134bcc5dbf8c7090ed02adac90601f717e1e481",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "aefc0a084f36": {
+            "display_name": "管道缩短",
+            "tags": [
+                "特效"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "特效/管道缩短.py",
+                "sha": "7731cb1900ab9ef31bc59d6786f2a0d568eee74e27a374bd219d22f024003ab7",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "9c846cf3e887": {
+            "display_name": "Nla生成",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/NLA生成.py",
+                "sha": "b4e0c3b8d47744199a1410c7e348dc913ffad3f147588c5ec57c107d07b87551",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "15825a9f83e6": {
+            "display_name": "导出Glb动画",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/导出glb动画.py",
+                "sha": "9805c557f2a027c88521d01c45217e7805bb77e6f1455d8a0f22bddffae2d172",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "d4b362660deb": {
+            "display_name": "应用缩放校正动画",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/应用缩放校正动画.py",
+                "sha": "be934c2f3eeca4137abf732de8b0079ab946818260b0c4020850808292b1c3af",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "26fe3458afe7": {
+            "display_name": "换坐标系",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/换坐标系.py",
+                "sha": "208214b30f002310b2c6291e6534972fe0726095b1f4505eb1cfc585178b3ff6",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "935555828bff": {
+            "display_name": "清理关键帧",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/清理关键帧.py",
+                "sha": "6855ead5d861b900cf77fc3500d09a2d735763befa94ad467aad185e96979c65",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "ea42aa112a48": {
+            "display_name": "清除物体动画",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/清除物体动画.py",
+                "sha": "2aa81eb539f87dcc8ad2b6e968a8e7da65a25f1bbfdf1d4ed4cd572cc32e313f",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "387505a4faf7": {
+            "display_name": "设置活动动作",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/设置活动动作.py",
+                "sha": "8b6cad7d6c9f3ee0e72509903d899bd05188b70bc871f810d1fbe0aaa47bee5a",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        },
+        "dbfe4baa6699": {
+            "display_name": "设置贴图名称1",
+            "tags": [
+                "饼菜单"
+            ],
+            "description": "请填写脚本描述...",
+            "local_config": {
+                "usage_count": 0,
+                "last_used": "1970-01-01T00:00:00Z",
+                "custom_priority": 50,
+                "is_favorite": false
+            },
+            "remote_info": {
+                "file_path": "饼菜单/设置贴图名称1.py",
+                "sha": "314a3176ba627a2bd73d0981a0cfe442da882ef6a622bb689e9d9da88f4dc9d7",
+                "last_commit_date": "2025-09-21T01:09:56.329765",
+                "author": "YourName",
+                "version": "1.0.0"
+            }
+        }
+    }
+}
