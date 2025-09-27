@@ -1,3 +1,4 @@
+# script_id: 3c139ea6-0f21-4bb5-a849-740e36fab4fc
 import bpy
 
 def unlock_and_show_all_bones():

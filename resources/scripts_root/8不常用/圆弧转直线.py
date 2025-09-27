@@ -1,3 +1,12 @@
+# script_id: a64951ae-e32a-4023-ac61-85f71eecc9ca
+# script_id: f9619c22-29bc-49b3-812f-4e8307b887be
+# script_id: a64951ae-e32a-4023-ac61-85f71eecc9ca
+# script_id: f9619c22-29bc-49b3-812f-4e8307b887be
+# script_id: 2a3f4eac-0e6f-4daf-9d17-262c0d94df55
+# script_id: a64951ae-e32a-4023-ac61-85f71eecc9ca
+# script_id: f9619c22-29bc-49b3-812f-4e8307b887be
+# script_id: a64951ae-e32a-4023-ac61-85f71eecc9ca
+# script_id: f9619c22-29bc-49b3-812f-4e8307b887be
 import bpy
 import bmesh
 from math import atan2, sqrt, pi

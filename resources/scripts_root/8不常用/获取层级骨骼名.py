@@ -1,3 +1,12 @@
+# script_id: de42755b-4628-40f2-9838-115cb7ff2182
+# script_id: a8c847d2-8c49-4999-a7d6-b4d301d108d6
+# script_id: de42755b-4628-40f2-9838-115cb7ff2182
+# script_id: a8c847d2-8c49-4999-a7d6-b4d301d108d6
+# script_id: cb6f2af0-ca05-47c7-959d-c91fab5b485b
+# script_id: de42755b-4628-40f2-9838-115cb7ff2182
+# script_id: a8c847d2-8c49-4999-a7d6-b4d301d108d6
+# script_id: de42755b-4628-40f2-9838-115cb7ff2182
+# script_id: a8c847d2-8c49-4999-a7d6-b4d301d108d6
 import bpy
 
 def enumerate_bones(bone, bone_dict, counter=[1]):

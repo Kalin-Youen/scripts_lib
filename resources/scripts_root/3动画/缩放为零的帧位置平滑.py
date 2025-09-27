@@ -1,3 +1,4 @@
+# script_id: 5a8f7d1e-11bb-47d0-9f4a-db23d65dcc0e
 import bpy
 from mathutils import Vector
 

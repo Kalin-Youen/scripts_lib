@@ -1,3 +1,4 @@
+# script_id: 6d119208-96c6-4f9d-9055-6af49e34131f
 import bpy
 import bmesh
 import re

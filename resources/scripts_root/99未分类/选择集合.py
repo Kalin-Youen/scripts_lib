@@ -1,3 +1,4 @@
+# script_id: 625c68af-6c1e-4d52-8f44-888010e59775
 import bpy
 
 def select_objects_in_collection_and_children(collection):

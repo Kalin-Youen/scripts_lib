@@ -1,3 +1,4 @@
+# script_id: 5a4818ca-7900-4fc7-8421-ccb0ecd1e4f7
 import bpy
 import bmesh
 from math import atan2, sqrt, cos, sin

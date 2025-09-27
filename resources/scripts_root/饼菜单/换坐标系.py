@@ -1,3 +1,4 @@
+# script_id: 475cdabf-d289-4617-83b4-43fb4f6f82cb
 # 文件名: quick_transform_toggle_popup_fixed.py
 import bpy
 from bpy.props import EnumProperty

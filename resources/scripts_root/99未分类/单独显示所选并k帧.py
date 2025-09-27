@@ -1,3 +1,4 @@
+# script_id: c5fa4de6-b464-4f76-ac84-20f0fa46d104
 import bpy
 
 # 确保在场景中创建并检查标记属性

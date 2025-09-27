@@ -1,3 +1,4 @@
+# script_id: ef8de92c-6da1-4ffe-b3e1-c20c103b5cf2
 import bpy
 
 def sync_by_constraints():

@@ -1,3 +1,4 @@
+# script_id: 60ee14dc-74eb-4d47-90c6-f55d68f74bb5
 import bpy
 import json
 import mathutils

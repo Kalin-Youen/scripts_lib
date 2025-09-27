@@ -1,3 +1,4 @@
+# script_id: 32786427-9e0d-4420-b3af-e14d3a67a8ae
 import bpy
 import bmesh
 import numpy as np

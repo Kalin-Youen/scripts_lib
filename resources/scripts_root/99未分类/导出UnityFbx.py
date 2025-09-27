@@ -1,3 +1,4 @@
+# script_id: 9cc0453a-8871-49e4-b726-19e4a10508d2
 import bpy
 import os
 from bpy.props import EnumProperty, BoolProperty

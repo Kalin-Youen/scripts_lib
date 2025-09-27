@@ -1,3 +1,4 @@
+# script_id: fd45dda1-bc95-4fc7-8e24-b554b877608f
 import bpy
 import bmesh
 from bpy.props import FloatProperty, BoolProperty

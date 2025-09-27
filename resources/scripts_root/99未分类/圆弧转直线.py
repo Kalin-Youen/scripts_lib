@@ -1,3 +1,4 @@
+# script_id: 30c09c96-3000-464c-bcc6-b9d39455a732
 import bpy
 import bmesh
 from math import atan2, sqrt, pi

@@ -1,3 +1,4 @@
+# script_id: 6eb65fa7-2194-486a-be80-81460f4467b1
 import bpy
 
 # 定义我们操作符的唯一ID

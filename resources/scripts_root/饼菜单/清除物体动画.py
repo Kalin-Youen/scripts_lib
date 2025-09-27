@@ -1,3 +1,4 @@
+# script_id: 8fad40fb-208b-4dae-a209-b9ff92efa4e3
 # -*- coding: utf-8 -*-
 #
 #  脚本: 清除所选物体的物体动画 (不影响形态键动画)

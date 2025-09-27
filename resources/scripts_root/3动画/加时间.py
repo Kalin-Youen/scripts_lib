@@ -1,3 +1,4 @@
+# script_id: d8966399-2c58-4143-8a5a-31f01a52bc6c
 import bpy
 
 class OBJECT_OT_batch_create_time_pause(bpy.types.Operator):

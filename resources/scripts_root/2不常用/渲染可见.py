@@ -1,3 +1,4 @@
+# script_id: e5fcf359-fbf5-4321-b711-a322a1336aac
 import bpy
 
 # 遍历当前场景的所有对象，同步渲染可见性

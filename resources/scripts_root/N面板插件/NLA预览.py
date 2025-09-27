@@ -1,3 +1,4 @@
+# script_id: 6bfa6c3e-1a37-4745-96b0-c159d35cd617
 # -*- coding: utf-8 -*-
 
 bl_info = {

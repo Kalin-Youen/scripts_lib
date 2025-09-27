@@ -1,3 +1,4 @@
+# script_id: 7053795e-5dec-4d84-8634-19cb4b5eed56
 import bpy
 
 def set_action_name_to_object_name():

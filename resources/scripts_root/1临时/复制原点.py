@@ -1,3 +1,4 @@
+# script_id: 2bd9a291-c78c-44b8-af33-0bcf94012a9d
 import bpy
 import json
 

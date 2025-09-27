@@ -1,3 +1,4 @@
+# script_id: eef328c4-e4c1-4e15-ae05-7b5b3fcefb5e
 import bpy
 
 # 获取当前场景

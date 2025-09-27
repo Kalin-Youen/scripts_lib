@@ -1,3 +1,4 @@
+# script_id: 4609777b-59cc-4797-9f0a-aa9c7eee1f87
 # -*- coding: utf-8 -*-
 # ──────────────────────────────────────────────────────────
 #   N-Panel Quick Access (Multi-Context) - v3.3 ROBUST with Popup Window

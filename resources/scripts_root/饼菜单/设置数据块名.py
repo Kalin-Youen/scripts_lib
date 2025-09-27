@@ -1,3 +1,4 @@
+# script_id: 5ab1dd84-0c8f-4312-bd0b-177c46461620
 import bpy
 
 # 遍历所有选中的物体

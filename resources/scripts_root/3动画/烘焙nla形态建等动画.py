@@ -1,3 +1,4 @@
+# script_id: 526aaf7d-0cfa-470e-bc15-a3e3c864116e
 import bpy
 
 def cleanup_action_smarter(action, threshold=0.001):

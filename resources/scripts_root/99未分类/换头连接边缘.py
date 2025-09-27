@@ -1,3 +1,4 @@
+# script_id: c8af9b3a-8814-4e35-beb5-7c2b270826b1
 import bpy
 import bmesh
 import random

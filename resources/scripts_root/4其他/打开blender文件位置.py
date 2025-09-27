@@ -1,3 +1,4 @@
+# script_id: db3af364-d4ab-4554-aae4-95f54fa04d0a
 import bpy
 import os
 import sys

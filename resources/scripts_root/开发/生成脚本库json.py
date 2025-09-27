@@ -1,3 +1,4 @@
+# script_id: 077768c0-b00a-439a-a0f1-540d978ead71
 # -*- coding: utf-8 -*-
 # =============================================================================
 #  元数据生成器 (Metadata Generator) for Smart Script Manager

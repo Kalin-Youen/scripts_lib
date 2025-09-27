@@ -1,3 +1,4 @@
+# script_id: 04e2fc3f-985a-49da-b392-68c504d39d31
 # -*- coding: utf-8 -*-
 import bpy
 

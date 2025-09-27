@@ -1,3 +1,12 @@
+# script_id: 2483126c-3173-4b2a-a0fe-5496d0a2237b
+# script_id: 57bf2723-162c-4d81-b4ac-d34b61725b0b
+# script_id: 2483126c-3173-4b2a-a0fe-5496d0a2237b
+# script_id: 57bf2723-162c-4d81-b4ac-d34b61725b0b
+# script_id: 2bff77fd-19a0-4b4e-8469-bc9e0aa69860
+# script_id: 2483126c-3173-4b2a-a0fe-5496d0a2237b
+# script_id: 57bf2723-162c-4d81-b4ac-d34b61725b0b
+# script_id: 2483126c-3173-4b2a-a0fe-5496d0a2237b
+# script_id: 57bf2723-162c-4d81-b4ac-d34b61725b0b
 import bpy
 import os
 from bpy.props import EnumProperty, BoolProperty

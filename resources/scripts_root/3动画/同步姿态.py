@@ -1,3 +1,12 @@
+# script_id: 19117bed-8d8e-49d4-9de7-a4fd94a99266
+# script_id: 131c465d-e882-4f6c-99c4-9811e4b5ef92
+# script_id: 19117bed-8d8e-49d4-9de7-a4fd94a99266
+# script_id: 131c465d-e882-4f6c-99c4-9811e4b5ef92
+# script_id: 1d3e3f9d-5340-4808-9961-35499d33a94b
+# script_id: 19117bed-8d8e-49d4-9de7-a4fd94a99266
+# script_id: 131c465d-e882-4f6c-99c4-9811e4b5ef92
+# script_id: 19117bed-8d8e-49d4-9de7-a4fd94a99266
+# script_id: 131c465d-e882-4f6c-99c4-9811e4b5ef92
 import bpy
 
 def sync_by_constraints():

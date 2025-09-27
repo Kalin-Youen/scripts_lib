@@ -1,3 +1,4 @@
+# script_id: 4cc43afe-949d-45f6-8f58-981ca971a0fd
 import bpy
 
 # --- 可配置项 ---

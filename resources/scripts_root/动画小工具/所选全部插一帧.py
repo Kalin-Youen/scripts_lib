@@ -1,3 +1,4 @@
+# script_id: 307179a6-f677-4e5a-a862-a519119b18eb
 import bpy
 from bpy.props import BoolProperty, EnumProperty
 from bpy.types import Operator

@@ -1,3 +1,4 @@
+# script_id: 4470b63c-3139-4421-8834-a7a3ad41d04b
 import bpy
 
 def ensure_uv_map_name(obj_source, obj_target):

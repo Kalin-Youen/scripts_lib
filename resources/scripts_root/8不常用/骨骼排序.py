@@ -1,3 +1,12 @@
+# script_id: 7bec9ac9-3291-455e-b041-a39cd6111884
+# script_id: acaccc9b-6e7a-405d-b50c-ffa10fa959be
+# script_id: 7bec9ac9-3291-455e-b041-a39cd6111884
+# script_id: acaccc9b-6e7a-405d-b50c-ffa10fa959be
+# script_id: 96e4d174-ea6c-4a52-9ca9-fd3440a50bac
+# script_id: 7bec9ac9-3291-455e-b041-a39cd6111884
+# script_id: acaccc9b-6e7a-405d-b50c-ffa10fa959be
+# script_id: 7bec9ac9-3291-455e-b041-a39cd6111884
+# script_id: acaccc9b-6e7a-405d-b50c-ffa10fa959be
 import bpy
 
 def move_active_bone_to_end():

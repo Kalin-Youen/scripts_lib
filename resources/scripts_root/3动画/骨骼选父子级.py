@@ -1,3 +1,4 @@
+# script_id: 39f19d36-747d-417a-9d25-00d44287b3ad
 import bpy
 
 def select_root_bone_and_kin():

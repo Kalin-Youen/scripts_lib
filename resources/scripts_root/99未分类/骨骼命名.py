@@ -1,3 +1,4 @@
+# script_id: 252aea6c-0378-4fe9-b99f-f8372dfd0b7c
 import bpy
 import difflib
 

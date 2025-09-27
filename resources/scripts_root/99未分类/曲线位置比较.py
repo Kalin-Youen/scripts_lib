@@ -1,3 +1,4 @@
+# script_id: ccb90552-7910-4f61-915c-f6d8c7c19a36
 import bpy
 
 def select_curves(axis='z', comparison='greater'):

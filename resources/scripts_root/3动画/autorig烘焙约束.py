@@ -1,3 +1,4 @@
+# script_id: 59217761-af97-45c9-8cf6-7bf48deb2c92
 import bpy
 
 def add_copy_transform_constraints():

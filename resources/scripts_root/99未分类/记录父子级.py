@@ -1,3 +1,4 @@
+# script_id: 9a7f3d2a-c9ed-4e69-af51-a05a0f912496
 import bpy
 import json
 from bpy.types import Operator

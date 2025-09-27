@@ -1,3 +1,12 @@
+# script_id: 6ef59390-141c-40e8-9905-5d56635ba502
+# script_id: 50d3efcd-b034-459d-bb70-7e422eff0e63
+# script_id: 6ef59390-141c-40e8-9905-5d56635ba502
+# script_id: 50d3efcd-b034-459d-bb70-7e422eff0e63
+# script_id: 401beab2-5127-4b3b-9bfb-e4d44c3b1039
+# script_id: 6ef59390-141c-40e8-9905-5d56635ba502
+# script_id: 50d3efcd-b034-459d-bb70-7e422eff0e63
+# script_id: 6ef59390-141c-40e8-9905-5d56635ba502
+# script_id: 50d3efcd-b034-459d-bb70-7e422eff0e63
 import bpy
 import bmesh
 from math import atan2, sqrt, cos, sin

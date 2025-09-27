@@ -1,3 +1,12 @@
+# script_id: ccbab5f9-75b3-4a5d-ac16-c80adcb5fabb
+# script_id: aff4bbac-615c-48c0-8560-7d397835b6d0
+# script_id: ccbab5f9-75b3-4a5d-ac16-c80adcb5fabb
+# script_id: aff4bbac-615c-48c0-8560-7d397835b6d0
+# script_id: adffc84e-659b-4628-b214-dad91af6a5ea
+# script_id: ccbab5f9-75b3-4a5d-ac16-c80adcb5fabb
+# script_id: aff4bbac-615c-48c0-8560-7d397835b6d0
+# script_id: ccbab5f9-75b3-4a5d-ac16-c80adcb5fabb
+# script_id: aff4bbac-615c-48c0-8560-7d397835b6d0
 import bpy
 import bmesh
 

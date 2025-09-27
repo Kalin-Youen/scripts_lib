@@ -1,3 +1,4 @@
+# script_id: c82c37c8-4427-4ad7-81ca-4921d3df6c53
 import bpy
 
 # 获取所有选中的物体

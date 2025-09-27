@@ -1,3 +1,4 @@
+# script_id: de45c9df-2eaa-4f1f-b06d-881128b0a83b
 import bpy
 import re
 

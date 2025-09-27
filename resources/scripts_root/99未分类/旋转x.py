@@ -1,3 +1,4 @@
+# script_id: a085b370-a360-4d9b-b20d-c2ef491e2185
 import bpy
 from math import radians
 

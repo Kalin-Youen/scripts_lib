@@ -1,3 +1,4 @@
+# script_id: f17c4a37-14bb-4b01-8f71-c7f0906634d4
 import bpy
 
 def enumerate_bones(bone, bone_dict, counter=[1]):

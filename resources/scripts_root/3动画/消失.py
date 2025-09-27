@@ -1,3 +1,4 @@
+# script_id: 89c42ee5-9bcc-450b-90eb-c7328380afec
 import bpy
 
 def make_disappear_for_selected():

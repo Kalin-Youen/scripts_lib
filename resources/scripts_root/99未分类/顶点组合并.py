@@ -1,3 +1,4 @@
+# script_id: 34a097fd-e010-4013-a1d2-03404d6725c4
 import bpy
 import json
 from mathutils import Vector    # 仅为将来拆分时可能用到，这里先保留

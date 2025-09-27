@@ -1,3 +1,4 @@
+# script_id: a6e8b092-2186-4625-af7b-f50429eab2b0
 import bpy
 
 def rename_single_material_objects():

@@ -1,3 +1,4 @@
+# script_id: b7cc9a7d-0a2d-44e8-a445-59e2bb69effb
 # -*- coding: utf-8 -*-
 #删除空形态键
 import bpy

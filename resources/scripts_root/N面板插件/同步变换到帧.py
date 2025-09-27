@@ -1,3 +1,4 @@
+# script_id: e0830a81-3f7a-44ab-870e-4a420ace63bd
 import bpy
 from bpy.types import Operator, Panel
 from typing import Dict, Tuple, Set, Optional, List

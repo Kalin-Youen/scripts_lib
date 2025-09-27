@@ -1,3 +1,4 @@
+# script_id: 6bbcc168-d8c3-4972-b985-7617ce780420
 import bpy
 
 def set_alpha_blend_no_overlap(material):

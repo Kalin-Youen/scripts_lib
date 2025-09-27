@@ -1,3 +1,12 @@
+# script_id: c032eacd-aa3b-431b-8071-3e066cd34caa
+# script_id: 8b0c2d06-716b-45fe-a16a-2d9ff3ae511c
+# script_id: c032eacd-aa3b-431b-8071-3e066cd34caa
+# script_id: 8b0c2d06-716b-45fe-a16a-2d9ff3ae511c
+# script_id: 4d4009aa-f9c3-4543-aaa0-f91cd6e7de6b
+# script_id: c032eacd-aa3b-431b-8071-3e066cd34caa
+# script_id: 8b0c2d06-716b-45fe-a16a-2d9ff3ae511c
+# script_id: c032eacd-aa3b-431b-8071-3e066cd34caa
+# script_id: 8b0c2d06-716b-45fe-a16a-2d9ff3ae511c
 # -*- coding: utf-8 -*-
 #
 #  脚本: 选择所选物体及其所有子级 (递归方法)

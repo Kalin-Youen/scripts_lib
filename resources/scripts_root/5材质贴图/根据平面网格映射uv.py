@@ -1,3 +1,4 @@
+# script_id: ad2baa3f-7347-4392-a88f-bb67034d7358
 import bpy
 import bmesh
 from mathutils import Vector, Matrix

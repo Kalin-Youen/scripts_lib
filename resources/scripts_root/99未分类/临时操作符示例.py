@@ -1,3 +1,4 @@
+# script_id: 75134b77-cb90-44fe-8ee1-785f2e807b8a
 import bpy
 
 class TEMP_OT_my_tool(bpy.types.Operator):

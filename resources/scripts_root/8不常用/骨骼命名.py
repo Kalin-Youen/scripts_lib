@@ -1,3 +1,12 @@
+# script_id: 81d24d11-11ed-4d70-9848-82f36bb1523c
+# script_id: 6899605e-e723-4922-81d8-e1bb27334212
+# script_id: 81d24d11-11ed-4d70-9848-82f36bb1523c
+# script_id: 6899605e-e723-4922-81d8-e1bb27334212
+# script_id: 5a18d35b-27d6-49d2-9ee5-42128a4a84c6
+# script_id: 81d24d11-11ed-4d70-9848-82f36bb1523c
+# script_id: 6899605e-e723-4922-81d8-e1bb27334212
+# script_id: 81d24d11-11ed-4d70-9848-82f36bb1523c
+# script_id: 6899605e-e723-4922-81d8-e1bb27334212
 import bpy
 import difflib
 

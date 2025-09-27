@@ -1,3 +1,4 @@
+# script_id: 598adb10-c2d9-46d8-9480-fdb0b50f9ab6
 import bpy
 
 def print_objects_face_count():

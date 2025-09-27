@@ -1,3 +1,12 @@
+# script_id: 72836481-1dd5-4ccc-8f56-eec730bde35e
+# script_id: 2ea4a1e3-ca38-4cb1-9013-a2c522532aa5
+# script_id: 72836481-1dd5-4ccc-8f56-eec730bde35e
+# script_id: 2ea4a1e3-ca38-4cb1-9013-a2c522532aa5
+# script_id: d3babd11-c3da-4351-ba15-38bc8f91ae3e
+# script_id: 72836481-1dd5-4ccc-8f56-eec730bde35e
+# script_id: 2ea4a1e3-ca38-4cb1-9013-a2c522532aa5
+# script_id: 72836481-1dd5-4ccc-8f56-eec730bde35e
+# script_id: 2ea4a1e3-ca38-4cb1-9013-a2c522532aa5
 # -*- coding: utf-8 -*-
 #
 #  脚本: 清除所选物体的物体动画 (不影响形态键动画)

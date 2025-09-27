@@ -1,3 +1,4 @@
+# script_id: dcf4a6b9-0ee7-4321-9c49-f3287810ce84
 import bpy
 
 def make_appear_for_selected():

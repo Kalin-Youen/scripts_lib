@@ -1,3 +1,4 @@
+# script_id: ec8cfad6-5289-4f48-b219-631f9f3875ae
 import bpy
 
 def move_active_bone_to_end():

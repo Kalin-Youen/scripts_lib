@@ -1,3 +1,4 @@
+# script_id: df4f5de2-14b1-4301-a59a-5a651e9eebb8
 # -*- coding: utf-8 -*-
 # ──────────────────────────────────────────────────────────
 #   UI Code Generator Pro v2.5.0 (Architect Edition)

@@ -1,3 +1,4 @@
+# script_id: 9867c246-0e45-4b0f-93c5-15175d5d1dcb
 # 创建/复用不透明材质并赋予
 import bpy
 import bmesh

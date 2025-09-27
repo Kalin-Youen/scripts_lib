@@ -1,3 +1,4 @@
+# script_id: d9b1966c-0554-4d87-8d7d-4e50633a09ef
 import bpy
 
 def clear_nla_tracks(obj):

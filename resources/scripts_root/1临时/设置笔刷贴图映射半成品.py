@@ -1,3 +1,4 @@
+# script_id: 326133a5-a87c-43bb-a2e7-202f988cf563
 # coding: utf-8
 import bpy
 from bpy_extras.io_utils import ImportHelper

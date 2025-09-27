@@ -1,3 +1,12 @@
+# script_id: ef4a48fb-231d-483a-af91-e70ecd0508d9
+# script_id: 233bb87a-5523-46c9-b793-00bc987b9584
+# script_id: ef4a48fb-231d-483a-af91-e70ecd0508d9
+# script_id: 233bb87a-5523-46c9-b793-00bc987b9584
+# script_id: 3922cb32-9531-4509-b2f9-bb297654c790
+# script_id: ef4a48fb-231d-483a-af91-e70ecd0508d9
+# script_id: 233bb87a-5523-46c9-b793-00bc987b9584
+# script_id: ef4a48fb-231d-483a-af91-e70ecd0508d9
+# script_id: 233bb87a-5523-46c9-b793-00bc987b9584
 import bpy
 
 def cleanup_action_smarter(action, threshold=0.001):

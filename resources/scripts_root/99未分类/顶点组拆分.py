@@ -1,3 +1,4 @@
+# script_id: 0524a568-f01a-4f82-b381-9a6922570869
 """
 Split the active mesh object by vertex-groups, restore each part’s origin,
 and (crucially) remove every material slot that is **not** listed in the

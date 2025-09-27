@@ -1,3 +1,4 @@
+# script_id: aca0bc2a-076f-4ecc-a6cd-ad15254dabd0
 # -*- coding: utf-8 -*-
 import bpy
 from collections import Counter

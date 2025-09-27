@@ -1,3 +1,4 @@
+# script_id: 6675817a-0ccb-4c10-9bfe-129a1d57101b
 # reload_addon.py
 #
 # 在 Blender Text Editor 中打开本文件并 Run Script

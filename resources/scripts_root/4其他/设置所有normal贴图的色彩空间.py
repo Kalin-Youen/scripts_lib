@@ -1,3 +1,4 @@
+# script_id: d8727ba1-d1af-48da-944f-7988ac9972bd
 # 设置所有normal贴图的色彩空间
 # 设置所有normal贴图的色彩空间
 # 3节点
